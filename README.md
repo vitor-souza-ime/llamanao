@@ -1,4 +1,3 @@
-````markdown
 # NAO + Ollama Llama Chat
 
 This project integrates the **NAO humanoid robot** with a **local LLaMA-based AI model** (via Ollama CLI), enabling conversational interaction. The robot can listen, process speech, and respond using a local AI model, all in English.
