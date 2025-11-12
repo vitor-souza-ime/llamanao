@@ -23,7 +23,6 @@ This project integrates the **NAO humanoid robot** with a **local LLaMA-based AI
 - `qi` Python library:  
   ```bash
   pip install qi
-````
 
 **Ollama CLI** installed and a LLaMA-based model downloaded:
 
