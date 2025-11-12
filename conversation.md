@@ -1,16 +1,4 @@
 ============================================================
-🎤 Aguardando sua fala...
-🎤 Escutando por 10.0 segundos... (Vocabulário: 163 palavras)
-   🟢 PODE FALAR AGORA!
-   ❌ Nenhuma palavra reconhecida
-❌ Falha #1
-🤖 NAO vai falar: 'I didn't catch that. Please speak louder and more clearly.'
-   (tamanho: 58 caracteres)
-
-============================================================
---- Conversa #1 ---
-============================================================
-============================================================
 --- Conversa #1 ---
 ============================================================
 🎤 Aguardando sua fala...
