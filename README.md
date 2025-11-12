@@ -25,7 +25,7 @@ This project integrates the **NAO humanoid robot** with a **local LLaMA-based AI
   pip install qi
 ````
 
-* **Ollama CLI** installed and a LLaMA-based model downloaded:
+**Ollama CLI** installed and a LLaMA-based model downloaded:
 
   ```bash
   curl -fsSL https://ollama.com/install.sh | sh
